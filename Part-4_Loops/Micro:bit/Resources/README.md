@@ -1,7 +1,7 @@
 # Activity Worksheet: Loops
 
 ## Introduction
-In this project activity you will learn to create loops with different inputs (conditions) to produce different outputs with the micro:bit. This will build upon your pervious skills you have learnt from the previous project activites.
+In this project activity you will learn to create loops with different inputs (conditions) to produce different outputs with the micro:bit. This will build upon your previous skills you have learnt from the previous project activites.
 
 ## Part 1: Basics Loops
 Lets begin the activity by trying out some simple conditional statement blocks:
@@ -73,7 +73,7 @@ We have learnt in creating a simple loop block using the **repeat** block. Lets 
     <img style="text-align:center" src="../Assets/microbit-10.png" width="20%" height="20%" />
 </p>
 
-If you said the stick person does not stop jumping you are right, a **while** loop is a loop that only runs (executes) when its true otherwise it will not run if its false. 
+If you said the stick person does not stop jumping you are right, a **while** loop is a loop that only runs (executes) when it's true otherwise it will not run if it's false. 
 
 - [ ] In the **while** loop set the condition drop down from true to false. Did you notice it stop? It no longer runs the loop.
 <p align="center">
@@ -88,7 +88,7 @@ If you said the stick person does not stop jumping you are right, a **while** lo
 If you said the stick person does not stop jumping, you are right - how would we fix this? We need to control the while loop to stop.
 
 ## Part 3: Controlling While Loops
-We learnt we can control **repeat** loops but putting in the maximum number of repeats we want, how do we do that with a while loop?
+We learnt we can control **repeat** loops by putting in the maximum number of repeats we want, how do we do that with a while loop?
 
 - [ ] Lets start afresh and delete all the code within the **on start** block. In the block menu click the **variable menu**, drag the **set item to 0** block and place it within the **on start** block.
 <p align="center">
@@ -112,17 +112,17 @@ We learnt we can control **repeat** loops but putting in the maximum number of r
     <img style="text-align:center" src="../Assets/microbit-16.png" width="20%" height="20%" />
 </p>
 
-- [ ] In the block menu click the **basic menu**, drag the **show leds** block and place it within the **while** block and draw out a stick person standing up.
+- [ ] In the block menu click the **basic menu**, drag the **show leds** block and place it within the **while** block and draw a stick person standing up.
 <p align="center">
     <img style="text-align:center" src="../Assets/microbit-17.png" width="20%" height="20%" />
 </p>
 
-- [ ] In the block menu click the **basic menu**, drag another the **show leds** block and place it within the **while** block and draw out a stick person jumping. What did you notice?
+- [ ] In the block menu click the **basic menu**, drag another **show leds** block and place it within the **while** block and draw a stick person jumping. What did you notice?
 <p align="center">
     <img style="text-align:center" src="../Assets/microbit-18.png" width="20%" height="20%" />
 </p>
 
-- [ ] Lets add an **if esle** block in the **logic menu**, drag the **if else** block and add it in the **while** loop.
+- [ ] Lets add an **if else** block in the **logic menu**, drag the **if else** block and add it in the **while** loop.
 <p align="center">
     <img style="text-align:center" src="../Assets/microbit-19.png" width="20%" height="20%" />
 </p>
